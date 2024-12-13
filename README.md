@@ -47,6 +47,8 @@ DeepHistFaces is a hybrid face recognition system combining traditional (LBPH) a
 
 # Dataset
 The project expect to organise the dataset as follows:
+dataset/ ├── train/ │ ├── user1/ │ │ ├── face_1.jpg │ │ ├── face_2.jpg │ ├── user2/ │ ├── face_1.jpg │ ├── face_2.jpg ├── test/ ├── user1/ ├── face_1.jpg
+
 
 dataset/
 ├── train/

@@ -45,11 +45,12 @@ DeepHistFaces is a hybrid face recognition system combining traditional (LBPH) a
       git lfs install
       git lfs pull
 
-# Dataset
-The project expect to organise the dataset as follows:
-dataset/ ├── train/ │ ├── user1/ │ │ ├── face_1.jpg │ │ ├── face_2.jpg │ ├── user2/ │ ├── face_1.jpg │ ├── face_2.jpg ├── test/ ├── user1/ ├── face_1.jpg
 
+## Dataset Structure
 
+The project expects the dataset to be organized as follows:
+
+```text
 dataset/
 ├── train/
 │   ├── user1/
@@ -61,6 +62,8 @@ dataset/
 ├── test/
     ├── user1/
         ├── face_1.jpg
+```
+
 
 # How to Use
 

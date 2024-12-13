@@ -13,3 +13,19 @@ DeepHistFaces is a hybrid face recognition system combining traditional (LBPH) a
 4.Normalized output for LBPH distances and CNN probabilities.
 
 5.Scalable and modular design.
+
+# Requirements
+
+-> Python 3.8.20
+
+-> Virtual environment (recommended)
+
+-> Libraries:
+      1. TensorFlow
+      2. OpenCV
+      3. Numpy
+      4. Matplotlib
+      5. Git LFS ( for large file storage )
+
+-> Hardware:
+      1. Webcam (for image collection)

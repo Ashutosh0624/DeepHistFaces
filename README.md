@@ -123,3 +123,20 @@ dataset/
      
      Add a web-based interface for image collection and testing
 
+     There's more scope of improvement by hyperparameter tuning and treating overfitting, increasing train input size, varying test image condition and quality.
+
+# License
+
+     This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+
+     TensorFlow for deep learning support.
+
+     OpenCV for image processing.
+
+     Git LFS for large file handling.
+
+# Contact
+    For questions or feedback, contact Ashutosh.
+      
